@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Christ-Yan L. Larose</h1>
 <h3 align="center">An enthusiast in Haiti rediscovering a passion for coding.</h3>
 
-- 🔭 I’m currently working on **Backend Development with node.js**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m actually learning **React**
+- 🌱 I’m also getting to know a little bit of **Frontend Technologies**
 
 - 💬 Ask me about **Python**
 
